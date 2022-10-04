@@ -5,6 +5,8 @@ This documentation is for ChuckNorris API applied in Boombit Challenge.
 
 **Some API Images maybe deprecated.**
 
+![https://api.chucknorris.io/img/chucknorris_logo_coloured_small@2x.png](https://api.chucknorris.io/img/chucknorris_logo_coloured_small@2x.png)
+
 [API Chuck Norris](https://api.chucknorris.io)
 
 ```json
